@@ -1,1 +1,1 @@
-This repo contians basic shell commands and executables
+This repository contains basic shell commands and executables
